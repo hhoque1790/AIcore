@@ -2,7 +2,8 @@
 ## Contents
 ## Description (what it does, the aim of the project, and what you learned)
 Hangman game is a simple game made with python. Program randomly selectes one of of 5 different
-fruits. User is then asked to guess a letter.
+fruits. User is then asked to guess a letter. In this project i learnt how to make use of classes,
+functions and validate user input.
 ## Installation instructions
 To play this game Python will need to be installed.
 ## Usage instructions
